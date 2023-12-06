@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "exchange-rate-jpy-thb",
+  "private_key_id": "d790185d74bb268bd8efd8c0cd6ec62c5b2a6eb9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDZMKdrvRsfnRdW\npXloBQqCl4/HnLTfO7tq29rJYJdsGOfK4dNjK10nLLsx3+dagvvjOeppzUlrNRFj\nb4YzNBmLAd0n+vE3LSIaiEqeoXd11HVqed8Qo6y7J3XxaCyzkyiC7/d6/zLHvIYJ\nwd6vm5Olihg8YklA75y78cIxZjIO3oCSe58yPqYxGXLtPV0AJg8OAG7oWGniy+KX\nvjOb2DnHAuwMZ1CNhpJ6+JiJmGwPLotpVXhUqrqsOACCGAndio6gU5S52Pu9nfVx\nZT9bZWvnWpPiZYtVwgs/irLqQN8nSxtm/ZMZdk6SYgUs2bdnP0u8OJikn2EuMfIF\niiy35UBxAgMBAAECggEAFN+6H4ucktfB+ZGZNWs5A0WDMi/R95u7W6RT7UNrmjfB\nXO+1jAdYm+soXKOrDexr2BiY+noAwrbmSNSPPqMuinxV38G2M21F8bkRCH9dRpJY\nuWO+kbaHyeVoTpjXPwHd0WPN0pQg/2H6Ae/dMd4cFrtkfYOdJb2oJmB9OP4CjqIc\nWFoOHdE7w2+MbsxJMQdFf7i3rxKtBF6a6Q2O9tLB5iErKZUkGSkYHGQ3JU/saRJP\nvuTfiQFiFEB3hdgixZlDKAeQGHWU0OAdQN2Davh+ehV/Ic8VqQL75nqQrCFuQnQq\nLc2zyBSMiZuNR7SaOA4EFTMnzT20q2AONRPC6HH5LwKBgQDwFXd9u/qZF1z7aH9k\no/E3pnNkMpVyfEi7JCkCxWDzOCsxR1qDNrwkPo6sqRp0FZAOS2rwSxAxcMMUqjwE\n9cJHKUfS5zwakDz+dg19LJrOPE53/2q+EAsh4vbKaNiIRjWaWvtDnWSpX44Rw4Kb\nUzNLhvueiD6nhknjwDNz9kEgXwKBgQDnlqZdI8D6L7cyW6SOazOD7W/9Yin8Q3sf\nscOlN2+X10+fo2Oa09SHDrSJdDcpvCECjHHha9A7BmUfziKbmOFOGSzkgLODzhn7\n7+MGBGEzk+weMN4rfeXkA7VhRfArccHGAwLolrSPKNFjAORJiyzQj6js8UuuAApc\nAgr3nXYRLwKBgQDeFf2DAfC+zS3mIrQ1lLH+mKsFdQVp8i4Vb03AknUsiDjsTOUd\nm/ROUtAISCWAXLH1hy5VOhqwoW7UHuWGcRBWY4ldPyoKKINDoFC6Chjpzj+IIW3M\ng2rI3fsNIg+rf8b2ElN8KIyFYS86n3Ch3kUFCMiZzc6niUGwvIrcKl/0YQKBgF6O\n9XicK6Q7rVpjbsoz3UHlxc84sJnu16v2QkMIYokmAb3V0cqa6XEHwRFKoWdqCDRp\nMepvwgMHtmyJFzpe7seboefe4O1VTui+ZvzC9wk/Qa6GF4C8lAxIs1t3WfvzI8J8\n4kgjmK/HY88/wvaAXBkAP2IXl+YA4Dn3H5FA+r9DAoGBAOucwVKcDPhushUlkfuB\n0pSJs5I30WnLtBsgnZPVgpiOBmbkp/jON0uDmlrnUbkgWfb5X8GmSNjIQjNv5Zhj\nKLJWx/HXg33P5fOhwiT969xRgRTgUAaCW3Gn+QiD3ysoy1V8Wdap8/QqKwBh9sHj\nnEIoBIxtum664lEObxRyTK7p\n-----END PRIVATE KEY-----\n",
+  "client_email": "stackpython@exchange-rate-jpy-thb.iam.gserviceaccount.com",
+  "client_id": "109640415911693892213",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/stackpython%40exchange-rate-jpy-thb.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
